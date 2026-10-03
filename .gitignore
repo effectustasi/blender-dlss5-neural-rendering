@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.dll
+*.addon64
+dlss5_error.txt
