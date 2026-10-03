@@ -213,3 +213,10 @@ The GPU paths cannot be tested headlessly: Blender does not initialise the
 `gpu` module in `--background`. They were verified by running a real GUI
 session under script control and writing results to JSON — that is how the
 off-screen pipeline numbers above were obtained.
+
+## More tools by effectustasi
+
+- [agent-receipts](https://github.com/effectustasi/agent-receipts): Skills that make AI coding agents prove "done" with real test output
+- [metahuman-face-capture](https://github.com/effectustasi/metahuman-face-capture): MetaHuman face capture from a webcam in Blender
+- [autodesk-inventor-mcp](https://github.com/effectustasi/autodesk-inventor-mcp): Connect AI agents to a live Autodesk Inventor session
+- [unreal-groom-alembic-exporter](https://github.com/effectustasi/unreal-groom-alembic-exporter): Export UE Groom assets (MetaHuman hair) to Alembic
